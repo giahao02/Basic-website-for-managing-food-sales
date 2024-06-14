@@ -1,0 +1,46 @@
+.nav-link {
+    font-size: 30px;
+}
+
+.footer-spacing {
+    margin-top: 100px;
+}
+
+
+/* chỉnh banner */
+
+.banner {
+    position: relative;
+    overflow: hidden;
+}
+
+.banner img {
+    width: 100%;
+    height: auto;
+}
+
+.banner-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+}
+
+
+/* tieu de duoi banner gioi thieu */
+
+.gioithieu_underbanner {
+    text-align: center;
+}
+
+.tieude_underbanner {
+    text-align: center;
+}
+
+.nav-link{
+    font-size: 25px;
+}
